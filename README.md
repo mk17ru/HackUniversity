@@ -6,4 +6,5 @@ https://www.hackuniversity.ru/winners2020 - link Case 2 AI/ML
 'gender', 'age', 'region', 'LTV', 'trips abroad', 'traffic volume', 'mobile rate', 'service 1', 'service 2'.
 3) Запустить neural_network_evaluate.py, она выведет четыре параметра 'bcg_color', 'icon_color', 'music', 'hot_news'.
 4) Далее приложение обрабатывает эти 4 значения, которые являются параметрами для API Launcher, и настраивает Launcher по полученным параметрам.
+
 ![image](https://user-images.githubusercontent.com/57333967/144406028-92eb2efa-84c5-490f-ba0d-c7142d792bf4.png)
