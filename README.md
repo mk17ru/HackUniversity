@@ -1,5 +1,7 @@
 # ArrayIndexOutOfBoundsException
 https://www.hackuniversity.ru/winners2020 - link Case 2 AI/ML
+![image](https://user-images.githubusercontent.com/57333967/144406028-92eb2efa-84c5-490f-ba0d-c7142d792bf4.png)
+
 Как запустить программу:
 1) Установить библиотеки, указанные в файле used_libraries.txt
 2) В файле test указать данные пользователя: 'number', 'phone type', 'version of OS', 'application 1', 'application 2', 'application 3',
